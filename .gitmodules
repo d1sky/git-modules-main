@@ -1,0 +1,6 @@
+[submodule "git-modules-client"]
+	path = git-modules-client
+	url = https://github.com/d1sky/git-modules-client.git
+[submodule "git-modules-server"]
+	path = git-modules-server
+	url = https://github.com/d1sky/git-modules-server.git
