@@ -4,6 +4,6 @@ Example project to study git submodules
 
 Structure:
 
-* Main progect - current repo
+* Main project - current repo
   * client - submodule
   * server - submodule
